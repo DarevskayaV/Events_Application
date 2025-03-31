@@ -1,0 +1,47 @@
+services:
+  backend:
+    build:
+      context: ./Events.Back
+      dockerfile: Events/Dockerfile
+    ports:
+      - "8080:80" 
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=movie-db;Database=moviedb;Username=postgres;Password=1234  # Подключение к БД
+    volumes:
+      - backend_data:/app/data
+    networks: 
+      - backend
+    depends_on:
+      - movie-postgres  # Указывает, что контейнер зависит от базы данных
+
+  frontend:
+    build:
+      context: ./Events.Web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    networks: 
+      - backend
+
+  movie-postgres:
+    image: postgres:15
+    container_name: movie-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: moviedb
+    ports:
+      - "5432:5432"
+    volumes:
+      - movie_db_data:/var/lib/postgresql/data
+    networks:
+      - backend
+    restart: unless-stopped
+
+volumes:
+  backend_data:
+  movie_db_data:  # Добавлено для хранения данных PostgreSQL
+
+networks:
+  backend:
