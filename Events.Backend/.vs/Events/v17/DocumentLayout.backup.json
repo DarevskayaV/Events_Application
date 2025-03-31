@@ -1,0 +1,1840 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\configurations\\participantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\configurations\\participantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\configurations\\refreshtokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\events.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\events.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\events.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\events.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\events.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\events.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\events.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\events.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\controllers\\rarticipantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\controllers\\rarticipantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\security\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\eventparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\eventparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\notifications\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\notifications\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\eventdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\eventdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241005192853_addrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241005192853_addrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241004065514_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241004065514_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241003134002_deleventcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241003134002_deleventcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241002185230_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241002185230_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241001193857_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241001193857_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241001183040_configurationsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241001183040_configurationsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\email\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\configurations\\imageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\configurations\\imageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\configurations\\eventparticipantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\configurations\\eventparticipantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\configurations\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\iparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\interfaces\\ieventparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\interfaces\\ieventparticipantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\entity\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\entity\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\entity\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\entity\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\entity\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\entity\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\entity\\eventparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.core\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58023D39-96BB-4BF1-9729-18D503FA44AD}|Events.Core\\Events.Core.csproj|solutionrelative:events.core\\entity\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\validation\\userrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\validation\\userrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\validation\\registerrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\validation\\registerrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\validation\\registerparticipanttoeventrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\validation\\registerparticipanttoeventrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\validation\\participantrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\validation\\participantrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\validation\\eventrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\validation\\eventrequestdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\userusecases\\validatecredentialsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\userusecases\\validatecredentialsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\userusecases\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\userusecases\\registeruserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\userusecases\\loginuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\userusecases\\loginuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\userusecases\\getuserbyusernameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\userusecases\\getuserbyusernameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\userusecases\\getuserbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\userusecases\\getuserbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\participantusecases\\removeparticipantfromeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\participantusecases\\removeparticipantfromeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\participantusecases\\registerparticipanttoeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\participantusecases\\registerparticipanttoeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\participantusecases\\getparticipantsbyeventidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\participantusecases\\getparticipantsbyeventidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\participantusecases\\getparticipantbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\participantusecases\\getparticipantbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\imageusecases\\addimageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\imageusecases\\addimageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\updateeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\updateeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\getpagedeventsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\getpagedeventsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\geteventsbycriteriausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\geteventsbycriteriausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\geteventbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\geteventbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\geteventbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\getalleventsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\getalleventsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\deleteeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\deleteeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\use cases\\eventusecases\\addeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\use cases\\eventusecases\\addeventusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\exceptions\\tokenexpiredexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\exceptions\\tokenexpiredexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\response\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\response\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\response\\participantresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\response\\participantresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\response\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\response\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\userrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\tokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\tokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\registerparticipanttoeventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\registerparticipanttoeventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\participantrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\participantrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\dto\\request\\eventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\dto\\request\\eventrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.application\\attributes\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE68E11F-1451-43F1-BCC4-337FB4D7A4DF}|Events.Application\\Events.Application.csproj|solutionrelative:events.application\\attributes\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED34D3F-253D-4D8D-8D73-3998CA4F6701}|Events\\Events.csproj|solutionrelative:events\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\updateeventusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\updateeventusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\addimageusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\addimageusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\geteventbynameusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\geteventbynameusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\eventrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\eventrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\geteventsbycriteriausecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\geteventsbycriteriausecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\addeventusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\addeventusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\repositories\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\repositories\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241001183040_configurationsadded.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241001183040_configurationsadded.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241001193857_adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241001193857_adduser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241005192853_addrefreshtoken.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241005192853_addrefreshtoken.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241004065514_new.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241004065514_new.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241003134002_deleventcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241003134002_deleventcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.data\\migrations\\20241002185230_adduserrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64372388-FEA2-4F44-B0F7-7D80D438A228}|Events.Data\\Events.Data.csproj|solutionrelative:events.data\\migrations\\20241002185230_adduserrole.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\events.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\events.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\geteventbyidusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\geteventbyidusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\getalleventsusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\getalleventsusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\deleteeventusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\deleteeventusecasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\events.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\events.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|c:\\users\\darev\\onedrive\\desktop\\events\\events.back\\events.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E52690A3-F014-46C7-B632-F8F9AE034ACE}|Events.Test\\Events.Test.csproj|solutionrelative:events.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Dockerfile",
+              "RelativeDocumentMoniker": "Events\\Dockerfile",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Dockerfile",
+              "RelativeToolTip": "Events\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-06T06:27:36.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-27T16:11:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Program.cs",
+              "RelativeDocumentMoniker": "Events\\Program.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Program.cs",
+              "RelativeToolTip": "Events\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAuwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:48:06.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\appsettings.json",
+              "RelativeDocumentMoniker": "Events\\appsettings.json",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\appsettings.json",
+              "RelativeToolTip": "Events\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T18:41:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Events\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Events\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:36:58.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Events.csproj",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Events.csproj",
+              "RelativeDocumentMoniker": "Events\\Events.csproj",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Events.csproj",
+              "RelativeToolTip": "Events\\Events.csproj",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T05:25:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Events.Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:26:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "Events.Data\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\EventDbContext.cs",
+              "RelativeToolTip": "Events.Data\\EventDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:26:35.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Events.Application",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Events.Application.csproj",
+              "RelativeDocumentMoniker": "Events.Application\\Events.Application.csproj",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Events.Application.csproj",
+              "RelativeToolTip": "Events.Application\\Events.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T17:02:38.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshTokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "RelativeToolTip": "Events.Data\\Configurations\\RefreshTokenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:26:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Events\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Events\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T17:41:33.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EventParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\EventParticipantRepository.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\EventParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\EventParticipantRepository.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\EventParticipantRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:28:35.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ParticipantConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\ParticipantConfiguration.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Configurations\\ParticipantConfiguration.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\ParticipantConfiguration.cs",
+              "RelativeToolTip": "Events.Data\\Configurations\\ParticipantConfiguration.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:26:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\EventDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\EventDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\EventDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\EventDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:45:54.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Events",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Events.csproj",
+              "RelativeDocumentMoniker": "Events\\Events.csproj",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Events.csproj",
+              "RelativeToolTip": "Events\\Events.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T17:00:45.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Events\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Events\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:39:49.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Events.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Events.Application.csproj",
+              "RelativeDocumentMoniker": "Events.Application\\Events.Application.csproj",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Events.Application.csproj",
+              "RelativeToolTip": "Events.Application\\Events.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T19:24:03.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Events\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Events\\Controllers\\EventController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:38:14.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241005192853_AddRefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241005192853_AddRefreshToken.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241005192853_AddRefreshToken.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241005192853_AddRefreshToken.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241005192853_AddRefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:44:42.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Notifications\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Notifications\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Notifications\\NotificationService.cs",
+              "RelativeToolTip": "Events.Data\\Notifications\\NotificationService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:01:35.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RarticipantController.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\RarticipantController.cs",
+              "RelativeDocumentMoniker": "Events\\Controllers\\RarticipantController.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Controllers\\RarticipantController.cs",
+              "RelativeToolTip": "Events\\Controllers\\RarticipantController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:39:08.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Security\\JwtService.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Security\\JwtService.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Security\\JwtService.cs",
+              "RelativeToolTip": "Events.Data\\Security\\JwtService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:05:43.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:04:09.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\ImageRepository.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\ImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:34:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:04:20.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241004065514_new.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241004065514_new.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241004065514_new.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241004065514_new.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241004065514_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:09:15.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241003134002_DelEventCategory.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241003134002_DelEventCategory.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241003134002_DelEventCategory.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241003134002_DelEventCategory.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241003134002_DelEventCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:12:10.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241002185230_AddUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241002185230_AddUserRole.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241002185230_AddUserRole.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241002185230_AddUserRole.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241002185230_AddUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:12:12.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241001193857_AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001193857_AddUser.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241001193857_AddUser.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001193857_AddUser.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241001193857_AddUser.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:14:54.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241001183040_ConfigurationsAdded.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAQwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:26:51.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Email\\EmailService.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Email\\EmailService.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Email\\EmailService.cs",
+              "RelativeToolTip": "Events.Data\\Email\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:26:22.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\ImageConfiguration.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Configurations\\ImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\ImageConfiguration.cs",
+              "RelativeToolTip": "Events.Data\\Configurations\\ImageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:25:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EventParticipantConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\EventParticipantConfiguration.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Configurations\\EventParticipantConfiguration.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\EventParticipantConfiguration.cs",
+              "RelativeToolTip": "Events.Data\\Configurations\\EventParticipantConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:25:49.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EventConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\EventConfiguration.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Configurations\\EventConfiguration.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Configurations\\EventConfiguration.cs",
+              "RelativeToolTip": "Events.Data\\Configurations\\EventConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:25:32.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:54:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:54:08.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:53:55.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:53:37.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IParticipantRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IParticipantRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IParticipantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:53:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IImageRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:53:05.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IEventRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:52:53.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IEventParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IEventParticipantRepository.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Interfaces\\IEventParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Interfaces\\IEventParticipantRepository.cs",
+              "RelativeToolTip": "Events.Core\\Interfaces\\IEventParticipantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:52:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\User.cs",
+              "RelativeToolTip": "Events.Core\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:51:54.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Entity\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\RefreshToken.cs",
+              "RelativeToolTip": "Events.Core\\Entity\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:51:36.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\Participant.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Entity\\Participant.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\Participant.cs",
+              "RelativeToolTip": "Events.Core\\Entity\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:51:26.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\Image.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Entity\\Image.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\Image.cs",
+              "RelativeToolTip": "Events.Core\\Entity\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:51:16.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EventParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\EventParticipant.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Entity\\EventParticipant.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\EventParticipant.cs",
+              "RelativeToolTip": "Events.Core\\Entity\\EventParticipant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:51:06.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\Event.cs",
+              "RelativeDocumentMoniker": "Events.Core\\Entity\\Event.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Entity\\Event.cs",
+              "RelativeToolTip": "Events.Core\\Entity\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:50:56.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Events.Application\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\MappingProfile.cs",
+              "RelativeToolTip": "Events.Application\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:46:09.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserRequestDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\UserRequestDTOValidator.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Validation\\UserRequestDTOValidator.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\UserRequestDTOValidator.cs",
+              "RelativeToolTip": "Events.Application\\Validation\\UserRequestDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:32:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterRequestDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\RegisterRequestDTOValidator.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Validation\\RegisterRequestDTOValidator.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\RegisterRequestDTOValidator.cs",
+              "RelativeToolTip": "Events.Application\\Validation\\RegisterRequestDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:32:16.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterParticipantToEventRequestDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\RegisterParticipantToEventRequestDTOValidator.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Validation\\RegisterParticipantToEventRequestDTOValidator.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\RegisterParticipantToEventRequestDTOValidator.cs",
+              "RelativeToolTip": "Events.Application\\Validation\\RegisterParticipantToEventRequestDTOValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:32:11.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ParticipantRequestDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\ParticipantRequestDTOValidator.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Validation\\ParticipantRequestDTOValidator.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\ParticipantRequestDTOValidator.cs",
+              "RelativeToolTip": "Events.Application\\Validation\\ParticipantRequestDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:32:06.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EventRequestDTOValidator.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\EventRequestDTOValidator.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Validation\\EventRequestDTOValidator.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Validation\\EventRequestDTOValidator.cs",
+              "RelativeToolTip": "Events.Application\\Validation\\EventRequestDTOValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:31:59.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GetUserByUsernameUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\GetUserByUsernameUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\UserUseCases\\GetUserByUsernameUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\GetUserByUsernameUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\GetUserByUsernameUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:43:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "LoginUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\LoginUserUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\UserUseCases\\LoginUserUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\LoginUserUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\LoginUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:44:00.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RegisterUserUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\RegisterUserUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\UserUseCases\\RegisterUserUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\RegisterUserUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\RegisterUserUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:44:12.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ValidateCredentialsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\ValidateCredentialsUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\UserUseCases\\ValidateCredentialsUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\ValidateCredentialsUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\ValidateCredentialsUseCase.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:44:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetUserByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\GetUserByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\UserUseCases\\GetUserByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\UserUseCases\\GetUserByIdUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\GetUserByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:43:20.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RemoveParticipantFromEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\RemoveParticipantFromEventUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\ParticipantUseCases\\RemoveParticipantFromEventUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\RemoveParticipantFromEventUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\RemoveParticipantFromEventUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:42:19.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RegisterParticipantToEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\RegisterParticipantToEventUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\ParticipantUseCases\\RegisterParticipantToEventUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\RegisterParticipantToEventUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\RegisterParticipantToEventUseCase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:42:07.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GetParticipantsByEventIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantsByEventIdUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantsByEventIdUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantsByEventIdUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantsByEventIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:41:56.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "GetParticipantByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantByIdUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:41:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AddImageUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ImageUseCases\\AddImageUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\ImageUseCases\\AddImageUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\ImageUseCases\\AddImageUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\ImageUseCases\\AddImageUseCase.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:40:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UpdateEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\UpdateEventUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\UpdateEventUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\UpdateEventUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\UpdateEventUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:40:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "GetPagedEventsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetPagedEventsUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\GetPagedEventsUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetPagedEventsUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetPagedEventsUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:40:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GetEventsByCriteriaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetEventsByCriteriaUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\GetEventsByCriteriaUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetEventsByCriteriaUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetEventsByCriteriaUseCase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:39:47.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetEventByNameUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetEventByNameUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\GetEventByNameUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetEventByNameUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetEventByNameUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:39:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetEventByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetEventByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\GetEventByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetEventByIdUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetEventByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:39:01.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GetAllEventsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetAllEventsUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\GetAllEventsUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\GetAllEventsUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetAllEventsUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:38:42.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeleteEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\DeleteEventUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\DeleteEventUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\DeleteEventUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\DeleteEventUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:37:37.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AddEventUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\AddEventUseCase.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Use Cases\\EventUseCases\\AddEventUseCase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Use Cases\\EventUseCases\\AddEventUseCase.cs",
+              "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\AddEventUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:37:09.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "Events.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:36:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Events.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:35:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Events.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:34:14.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TokenExpiredException.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\TokenExpiredException.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Exceptions\\TokenExpiredException.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\TokenExpiredException.cs",
+              "RelativeToolTip": "Events.Application\\Exceptions\\TokenExpiredException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:33:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Events.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:33:24.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "InternalServerErrorException.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\InternalServerErrorException.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Exceptions\\InternalServerErrorException.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\InternalServerErrorException.cs",
+              "RelativeToolTip": "Events.Application\\Exceptions\\InternalServerErrorException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:33:06.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Events.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:32:45.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Response\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Response\\UserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Response\\UserResponseDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Response\\UserResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:32:15.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ParticipantResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Response\\ParticipantResponseDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Response\\ParticipantResponseDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Response\\ParticipantResponseDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Response\\ParticipantResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:31:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EventResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Response\\EventResponseDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Response\\EventResponseDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Response\\EventResponseDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Response\\EventResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:31:09.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "UserRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\UserRequestDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\UserRequestDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\UserRequestDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\UserRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:30:43.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TokenRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\TokenRequestDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\TokenRequestDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\TokenRequestDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\TokenRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:30:09.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\RegisterRequestDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\RegisterRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:29:54.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "RegisterParticipantToEventRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\RegisterParticipantToEventRequestDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\RegisterParticipantToEventRequestDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\RegisterParticipantToEventRequestDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\RegisterParticipantToEventRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:29:09.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ParticipantRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\ParticipantRequestDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\ParticipantRequestDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\ParticipantRequestDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\ParticipantRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:28:27.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\PaginationParams.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\PaginationParams.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:27:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EventRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\EventRequestDTO.cs",
+              "RelativeDocumentMoniker": "Events.Application\\DTO\\Request\\EventRequestDTO.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\DTO\\Request\\EventRequestDTO.cs",
+              "RelativeToolTip": "Events.Application\\DTO\\Request\\EventRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:27:23.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Attributes\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "Events.Application\\Attributes\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Application\\Attributes\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "Events.Application\\Attributes\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:26:07.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Events\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Events\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:32:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "GetEventByNameUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetEventByNameUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\GetEventByNameUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetEventByNameUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\GetEventByNameUseCaseTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:28:35.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "AddImageUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\AddImageUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\AddImageUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\AddImageUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\AddImageUseCaseTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:26:40.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UpdateEventUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\UpdateEventUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\UpdateEventUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\UpdateEventUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\UpdateEventUseCaseTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:29:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "EventRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\EventRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\EventRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\EventRepositoryTests.cs",
+              "RelativeToolTip": "Events.Test\\EventRepositoryTests.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv3cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:27:25.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "GetEventsByCriteriaUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetEventsByCriteriaUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\GetEventsByCriteriaUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetEventsByCriteriaUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\GetEventsByCriteriaUseCaseTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:28:57.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AddEventUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\AddEventUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\AddEventUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\AddEventUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\AddEventUseCaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:26:30.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:04:42.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:04:34.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:04:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ParticipantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\ParticipantRepository.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Repositories\\ParticipantRepository.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Repositories\\ParticipantRepository.cs",
+              "RelativeToolTip": "Events.Data\\Repositories\\ParticipantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:04:26.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20241001183040_ConfigurationsAdded.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.Designer.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.Designer.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.Designer.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241001183040_ConfigurationsAdded.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:29:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20241001193857_AddUser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001193857_AddUser.Designer.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241001193857_AddUser.Designer.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241001193857_AddUser.Designer.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241001193857_AddUser.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:29:55.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20241005192853_AddRefreshToken.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241005192853_AddRefreshToken.Designer.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241005192853_AddRefreshToken.Designer.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241005192853_AddRefreshToken.Designer.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241005192853_AddRefreshToken.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:19:28.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20241004065514_new.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241004065514_new.Designer.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241004065514_new.Designer.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241004065514_new.Designer.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241004065514_new.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAmwOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:09:33.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20241003134002_DelEventCategory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241003134002_DelEventCategory.Designer.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241003134002_DelEventCategory.Designer.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241003134002_DelEventCategory.Designer.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241003134002_DelEventCategory.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:32:31.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20241002185230_AddUserRole.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241002185230_AddUserRole.Designer.cs",
+              "RelativeDocumentMoniker": "Events.Data\\Migrations\\20241002185230_AddUserRole.Designer.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Data\\Migrations\\20241002185230_AddUserRole.Designer.cs",
+              "RelativeToolTip": "Events.Data\\Migrations\\20241002185230_AddUserRole.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAmwAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:30:29.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Events.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\Events.Test.csproj",
+              "RelativeDocumentMoniker": "Events.Test\\Events.Test.csproj",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\Events.Test.csproj",
+              "RelativeToolTip": "Events.Test\\Events.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T20:23:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "GetEventByIdUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetEventByIdUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\GetEventByIdUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetEventByIdUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\GetEventByIdUseCaseTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:28:21.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "GetAllEventsUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetAllEventsUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\GetAllEventsUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\GetAllEventsUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\GetAllEventsUseCaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:28:07.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "DeleteEventUseCaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\DeleteEventUseCaseTests.cs",
+              "RelativeDocumentMoniker": "Events.Test\\DeleteEventUseCaseTests.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\DeleteEventUseCaseTests.cs",
+              "RelativeToolTip": "Events.Test\\DeleteEventUseCaseTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:26:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Events.Test",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\Events.Test.csproj",
+              "RelativeDocumentMoniker": "Events.Test\\Events.Test.csproj",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\Events.Test.csproj",
+              "RelativeToolTip": "Events.Test\\Events.Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T20:23:52.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\Class1.cs",
+              "RelativeDocumentMoniker": "Events.Test\\Class1.cs",
+              "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Test\\Class1.cs",
+              "RelativeToolTip": "Events.Test\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:35:29.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

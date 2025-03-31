@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "Kgfxd3eDWpGkRTyQUOBqqONBzSrvIhLHMxdmlAAQnXM=",
+  "Source": "Events",
+  "BasePath": "_content/Events",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Events\\wwwroot",
+      "Source": "Events",
+      "ContentRoot": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\wwwroot\\",
+      "BasePath": "_content/Events",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
