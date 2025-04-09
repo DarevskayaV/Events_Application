@@ -1,0 +1,29 @@
+# Общие системные файлы
+.DS_Store
+*.suo
+*.vs
+
+# Бэкэнд 
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+
+## Файлы пакетов NuGet
+packages/
+
+# Фронтэнд 
+node_modules/
+
+## Кэш и временные файлы
+.cache/
+
+## Файлы сборки
+dist/
+build/
+*.min.js
+
+## Пакетные менеджеры
+package-lock.json
+yarn.lock

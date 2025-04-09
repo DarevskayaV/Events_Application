@@ -4,6 +4,11 @@ using Events.Core.Interfaces.Repositories;
 using Moq;
 using Xunit;
 using System.Linq;
+using MockQueryable.Moq;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using MockQueryable;
 
 namespace Events.Tests
 {
@@ -25,9 +30,8 @@ namespace Events.Tests
             var eventName = "Music Festival";
             var eventEntity = new Event { Id = Guid.NewGuid(), Name = eventName, EventDate = DateTime.Now };
 
-            var events = new List<Event> { eventEntity }.AsQueryable();
+            var events = new List<Event> { eventEntity }.BuildMock(); // Используем BuildMock()
 
-            // Настройка мока для возвращения IQueryable
             _unitOfWorkMock.Setup(u => u.Events.Query())
                 .Returns(events);
 
@@ -45,8 +49,8 @@ namespace Events.Tests
             // Arrange
             var eventName = "Nonexistent Event";
 
-            // Настройка мока для возвращения IQueryable с пустым списком
-            var events = new List<Event>().AsQueryable();
+            var events = new List<Event>().BuildMock(); // Используем BuildMock()
+
             _unitOfWorkMock.Setup(u => u.Events.Query())
                 .Returns(events);
 
@@ -65,7 +69,8 @@ namespace Events.Tests
             var eventEntity1 = new Event { Id = Guid.NewGuid(), Name = eventName, EventDate = DateTime.Now };
             var eventEntity2 = new Event { Id = Guid.NewGuid(), Name = "Another Concert", EventDate = DateTime.Now.AddDays(1) };
 
-            var events = new List<Event> { eventEntity1, eventEntity2 }.AsQueryable();
+            var events = new List<Event> { eventEntity1, eventEntity2 }.BuildMock(); // Используем BuildMock()
+
             _unitOfWorkMock.Setup(u => u.Events.Query())
                 .Returns(events);
 
@@ -78,4 +83,3 @@ namespace Events.Tests
         }
     }
 }
-

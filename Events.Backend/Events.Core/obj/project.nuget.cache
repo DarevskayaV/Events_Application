@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zeHUlWM9nJU=",
+  "dgSpecHash": "v9x3BOSidlY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events.Core\\Events.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events.Core\\Events.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darev\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\darev\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\darev\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

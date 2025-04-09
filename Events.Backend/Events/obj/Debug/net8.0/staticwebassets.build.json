@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Kgfxd3eDWpGkRTyQUOBqqONBzSrvIhLHMxdmlAAQnXM=",
+  "Hash": "S5ZVZuQScB/Qrvacv4nHk+qoRaeFHaX1zUByu/YI06Y=",
   "Source": "Events",
   "BasePath": "_content/Events",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Events\\wwwroot",
       "Source": "Events",
-      "ContentRoot": "C:\\Users\\darev\\OneDrive\\Desktop\\Events\\Events.Back\\Events\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events\\wwwroot\\",
       "BasePath": "_content/Events",
       "Pattern": "**"
     }

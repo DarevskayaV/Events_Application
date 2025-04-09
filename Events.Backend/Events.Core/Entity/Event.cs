@@ -17,6 +17,8 @@ namespace Events.Core.Entity
         public Image Image { get; set; }
 
         public ICollection<EventParticipant> EventParticipants { get; set; }
+
+
     }
 }
 

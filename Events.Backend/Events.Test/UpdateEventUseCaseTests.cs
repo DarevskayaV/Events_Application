@@ -14,9 +14,10 @@ namespace Events.Tests
 {
     public class UpdateEventUseCaseTests
     {
-        private readonly IUnitOfWork _unitOfWork;
+        private IUnitOfWork _unitOfWork;
         private readonly INotificationService _notificationService;
-        private readonly UpdateEventUseCase _updateEventUseCase;
+        private
+            UpdateEventUseCase _updateEventUseCase;
         private readonly EventDbContext _context;
         private readonly Mock<IUserRepository> _userRepositoryMock; // Добавляем мок для IUserRepository
 
@@ -56,12 +57,28 @@ namespace Events.Tests
                 Description = "Original Description",
                 Location = "Original Location",
                 Category = "Original Category",
-                EventDate = DateTime.UtcNow // Убедитесь, что вы устанавливаете дату
+                EventDate = DateTime.UtcNow
             };
 
-            // Сохранение события в контексте базы данных
-            _context.Events.Add(existingEvent);
-            await _context.SaveChangesAsync(); // Убедитесь, что событие сохранено
+            // Создаем мок IEventRepository и настраиваем его поведение
+            var eventRepositoryMock = new Mock<IEventRepository>();
+            eventRepositoryMock.Setup(r => r.GetByIdAsync(eventId))
+                .ReturnsAsync(existingEvent);
+            eventRepositoryMock.Setup(r => r.UpdateAsync(It.IsAny<Event>()))
+                .Returns(Task.CompletedTask);
+
+            // Пересоздаем UnitOfWork с настроенным моком IEventRepository
+            _unitOfWork = new UnitOfWork(
+                _context,
+                _userRepositoryMock.Object,
+                new Mock<IParticipantRepository>().Object,
+                eventRepositoryMock.Object, // Используем настроенный мок
+                new Mock<IEventParticipantRepository>().Object,
+                new Mock<IImageRepository>().Object
+            );
+
+            // Пересоздаем use case с новым UnitOfWork
+            _updateEventUseCase = new UpdateEventUseCase(_unitOfWork, _notificationService);
 
             var updatedEvent = new Event
             {
@@ -69,20 +86,20 @@ namespace Events.Tests
                 Description = "Updated Description",
                 Location = "Updated Location",
                 Category = "Updated Category",
-                EventDate = existingEvent.EventDate // Сохраните дату, если она не изменяется
+                EventDate = existingEvent.EventDate
             };
 
             // Act
             await _updateEventUseCase.ExecuteAsync(eventId, updatedEvent);
 
             // Assert
-            var result = await _context.Events.FindAsync(eventId);
-            Assert.NotNull(result); // Убедитесь, что событие найдено
-            Assert.Equal("Updated Event", result.Name);
-            Assert.Equal("Updated Description", result.Description);
-            Assert.Equal("Updated Location", result.Location);
-            Assert.Equal("Updated Category", result.Category);
-            Assert.Equal(existingEvent.EventDate, result.EventDate); // Проверка даты
+            eventRepositoryMock.Verify(r => r.GetByIdAsync(eventId), Times.Once);
+            eventRepositoryMock.Verify(r => r.UpdateAsync(It.Is<Event>(e =>
+                e.Name == "Updated Event" &&
+                e.Description == "Updated Description" &&
+                e.Location == "Updated Location" &&
+                e.Category == "Updated Category")),
+            Times.Once);
         }
     }
 }

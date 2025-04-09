@@ -20,3 +20,16 @@ C:\Users\darev\OneDrive\Desktop\Events\Events.Back\Events.Core\obj\Debug\net8.0\
 C:\Users\darev\OneDrive\Desktop\Events\Events.Back\Events.Core\obj\Debug\net8.0\refint\Events.Core.dll
 C:\Users\darev\OneDrive\Desktop\Events\Events.Back\Events.Core\obj\Debug\net8.0\Events.Core.pdb
 C:\Users\darev\OneDrive\Desktop\Events\Events.Back\Events.Core\obj\Debug\net8.0\ref\Events.Core.dll
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\bin\Debug\net8.0\Events.Core.deps.json
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\bin\Debug\net8.0\Events.Core.dll
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\bin\Debug\net8.0\Events.Core.pdb
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.AssemblyInfoInputs.cache
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.AssemblyInfo.cs
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.csproj.CoreCompileInputs.cache
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.sourcelink.json
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.dll
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\refint\Events.Core.dll
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.pdb
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\ref\Events.Core.dll
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Core\obj\Debug\net8.0\Events.Core.csproj.AssemblyReference.cache
