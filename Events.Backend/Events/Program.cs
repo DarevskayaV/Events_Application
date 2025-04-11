@@ -114,8 +114,9 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 // Настройка базы данных
+var connectionString = builder.Configuration["ConnectionStrings:DefaultConnection"];
 builder.Services.AddDbContext<EventDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(connectionString));
 
 // Настройка JWT
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
@@ -155,6 +156,14 @@ builder.Services.AddAuthorization(options =>
 
 // Построение приложения
 var app = builder.Build();
+
+//// Применение миграций при запуске
+//using (var scope = app.Services.CreateScope())
+//{
+//    var db = scope.ServiceProvider.GetRequiredService<Events.Data.EventDbContext>();
+//    db.Database.Migrate();
+//}
+
 
 // Использование CORS (если настроен)
 app.UseCors("AllowAll");

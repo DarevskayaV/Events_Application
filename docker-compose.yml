@@ -7,7 +7,7 @@ services:
       - "8080:80" 
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
-      - ConnectionStrings__DefaultConnection=Host=movie-db;Database=moviedb;Username=postgres;Password=1234  # Подключение к БД
+      - ConnectionStrings__DefaultConnection=Host=host.docker.internal;Database=moviedb;User ID=postgres;Password=1234  # Подключение к БД
     volumes:
       - backend_data:/app/data
     networks: 

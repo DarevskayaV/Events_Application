@@ -50,3 +50,5 @@ C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Data\ob
 C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Data\obj\Debug\net8.0\refint\Events.Data.dll
 C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Data\obj\Debug\net8.0\Events.Data.pdb
 C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Data\obj\Debug\net8.0\ref\Events.Data.dll
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Data\bin\Debug\net8.0\Events.Data.runtimeconfig.json
+C:\Users\darev\OneDrive\Desktop\Events_Application\Events.Backend\Events.Data\obj\Debug\net8.0\Events.Data.genruntimeconfig.cache
