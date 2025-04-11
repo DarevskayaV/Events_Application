@@ -430,8 +430,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Response\\UserResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:32:15.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:32:15.895Z"
             },
             {
               "$type": "Document",
@@ -443,8 +442,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\GetUserByIdUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:43:20.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:43:20.753Z"
             },
             {
               "$type": "Document",
@@ -456,8 +454,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\GetUserByUsernameUseCase.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:43:33.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:43:33.425Z"
             },
             {
               "$type": "Document",
@@ -469,8 +466,7 @@
               "RelativeToolTip": "Events.Core\\Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:51:54.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:51:54.777Z"
             },
             {
               "$type": "Document",
@@ -482,8 +478,7 @@
               "RelativeToolTip": "Events\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T18:41:09.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T18:41:09.838Z"
             },
             {
               "$type": "Document",
@@ -508,8 +503,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\RegisterUserUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:44:12.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:44:12.009Z"
             },
             {
               "$type": "Document",
@@ -521,8 +515,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\LoginUserUseCase.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:44:00.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:44:00.134Z"
             },
             {
               "$type": "Document",
@@ -534,8 +527,7 @@
               "RelativeToolTip": "Events.Data\\EventDbContextFactory.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T12:53:18.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T12:53:18.594Z"
             },
             {
               "$type": "Document",
@@ -547,8 +539,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\UserRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:30:43.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:30:43.018Z"
             },
             {
               "$type": "Document",
@@ -560,8 +551,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:04:09.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:04:09.312Z"
             },
             {
               "$type": "Document",
@@ -573,8 +563,7 @@
               "RelativeToolTip": "Events.Data\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:26:16.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:26:16.908Z"
             },
             {
               "$type": "Document",
@@ -586,21 +575,19 @@
               "RelativeToolTip": "Events.Core\\Entity\\Event.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA+wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:50:56.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:50:56.648Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Events.Data",
+              "Title": "Events.Data.csproj",
               "DocumentMoniker": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events.Data\\Events.Data.csproj",
               "RelativeDocumentMoniker": "Events.Data\\Events.Data.csproj",
               "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events.Data\\Events.Data.csproj",
               "RelativeToolTip": "Events.Data\\Events.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-10T14:11:26.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T14:11:26.116Z"
             },
             {
               "$type": "Document",
@@ -612,8 +599,7 @@
               "RelativeToolTip": "Events.Application\\Events.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T19:24:03.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:24:03.503Z"
             },
             {
               "$type": "Document",
@@ -625,8 +611,7 @@
               "RelativeToolTip": "Events.Data\\EventDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAxwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:26:35.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:26:35.92Z"
             },
             {
               "$type": "Document",
@@ -638,8 +623,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\EventParticipantRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T06:28:35.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T06:28:35.309Z"
             },
             {
               "$type": "Document",
@@ -651,8 +635,7 @@
               "RelativeToolTip": "Events.Data\\Configurations\\RefreshTokenConfiguration.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAIBJwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:26:11.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:26:11.771Z"
             },
             {
               "$type": "Document",
@@ -664,8 +647,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\UpdateEventUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:40:20.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:40:20.848Z"
             },
             {
               "$type": "Document",
@@ -677,8 +659,7 @@
               "RelativeToolTip": "Events.Test\\GetEventByNameUseCaseTests.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAcwEkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:28:35.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:28:35.204Z"
             },
             {
               "$type": "Document",
@@ -690,8 +671,7 @@
               "RelativeToolTip": "Events.Test\\EventRepositoryTests.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:27:25.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:27:25.043Z"
             },
             {
               "$type": "Document",
@@ -703,8 +683,7 @@
               "RelativeToolTip": "Events.Test\\AddEventUseCaseTests.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIA8wCQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:26:30.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:26:30.274Z"
             },
             {
               "$type": "Document",
@@ -716,8 +695,7 @@
               "RelativeToolTip": "Events.Test\\GetEventsByCriteriaUseCaseTests.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:28:57.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:28:57.786Z"
             },
             {
               "$type": "Document",
@@ -729,8 +707,7 @@
               "RelativeToolTip": "Events.Test\\UpdateEventUseCaseTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:29:10.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:29:10.551Z"
             },
             {
               "$type": "Document",
@@ -741,8 +718,7 @@
               "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events.Application\\Events.Application.csproj",
               "RelativeToolTip": "Events.Application\\Events.Application.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-30T17:02:38.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:02:38.781Z"
             },
             {
               "$type": "Document",
@@ -754,8 +730,7 @@
               "RelativeToolTip": "Events\\Events.csproj",
               "ViewState": "AgIAACIAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T05:25:05.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:25:05.464Z"
             },
             {
               "$type": "Document",
@@ -767,8 +742,7 @@
               "RelativeToolTip": "Events\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:36:58.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:36:58.229Z"
             },
             {
               "$type": "Document",
@@ -780,8 +754,7 @@
               "RelativeToolTip": ".dockerignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-27T16:11:40.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T16:11:40.042Z"
             },
             {
               "$type": "Document",
@@ -793,8 +766,7 @@
               "RelativeToolTip": "Events\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-06T06:27:36.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:27:36.846Z"
             },
             {
               "$type": "Document",
@@ -806,8 +778,7 @@
               "RelativeToolTip": "Events\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-04T17:41:33.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:41:33.023Z"
             },
             {
               "$type": "Document",
@@ -819,8 +790,7 @@
               "RelativeToolTip": "Events.Data\\Configurations\\ParticipantConfiguration.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIBZwAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:26:06.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:26:06.824Z"
             },
             {
               "$type": "Document",
@@ -831,8 +801,7 @@
               "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events\\Events.csproj",
               "RelativeToolTip": "Events\\Events.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-30T17:00:45.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T17:00:45.356Z"
             },
             {
               "$type": "Document",
@@ -844,8 +813,7 @@
               "RelativeToolTip": "Events\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:39:49.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:39:49.231Z"
             },
             {
               "$type": "Document",
@@ -857,8 +825,7 @@
               "RelativeToolTip": "Events\\Controllers\\EventController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAcwIUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:38:14.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:38:14.459Z"
             },
             {
               "$type": "Document",
@@ -870,8 +837,7 @@
               "RelativeToolTip": "Events.Data\\Notifications\\NotificationService.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:01:35.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:01:35.786Z"
             },
             {
               "$type": "Document",
@@ -883,8 +849,7 @@
               "RelativeToolTip": "Events\\Controllers\\RarticipantController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwDoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:39:08.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:39:08.154Z"
             },
             {
               "$type": "Document",
@@ -896,8 +861,7 @@
               "RelativeToolTip": "Events.Data\\Security\\JwtService.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAswAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:05:43.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:05:43.425Z"
             },
             {
               "$type": "Document",
@@ -909,8 +873,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\ImageRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:34:20.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:34:20.499Z"
             },
             {
               "$type": "Document",
@@ -922,8 +885,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\EventRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:04:20.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:04:20.65Z"
             },
             {
               "$type": "Document",
@@ -935,8 +897,7 @@
               "RelativeToolTip": "Events.Data\\Email\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:26:22.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:26:22.282Z"
             },
             {
               "$type": "Document",
@@ -948,8 +909,7 @@
               "RelativeToolTip": "Events.Data\\Configurations\\ImageConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:25:55.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:25:55.874Z"
             },
             {
               "$type": "Document",
@@ -961,8 +921,7 @@
               "RelativeToolTip": "Events.Data\\Configurations\\EventParticipantConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:25:49.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:25:49.285Z"
             },
             {
               "$type": "Document",
@@ -974,8 +933,7 @@
               "RelativeToolTip": "Events.Data\\Configurations\\EventConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:25:32.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:25:32.773Z"
             },
             {
               "$type": "Document",
@@ -987,8 +945,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:54:31.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:54:31.358Z"
             },
             {
               "$type": "Document",
@@ -1000,8 +957,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:54:08.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:54:08.448Z"
             },
             {
               "$type": "Document",
@@ -1013,8 +969,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:53:55.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:53:55.589Z"
             },
             {
               "$type": "Document",
@@ -1026,8 +981,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IRefreshTokenRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:53:37.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:53:37.062Z"
             },
             {
               "$type": "Document",
@@ -1039,8 +993,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IParticipantRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:53:20.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:53:20.172Z"
             },
             {
               "$type": "Document",
@@ -1052,8 +1005,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IImageRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:53:05.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:53:05.893Z"
             },
             {
               "$type": "Document",
@@ -1065,8 +1017,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IEventRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:52:53.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:52:53.471Z"
             },
             {
               "$type": "Document",
@@ -1078,8 +1029,7 @@
               "RelativeToolTip": "Events.Core\\Interfaces\\IEventParticipantRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:52:35.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:52:35.944Z"
             },
             {
               "$type": "Document",
@@ -1091,8 +1041,7 @@
               "RelativeToolTip": "Events.Core\\Entity\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:51:36.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:51:36.37Z"
             },
             {
               "$type": "Document",
@@ -1104,8 +1053,7 @@
               "RelativeToolTip": "Events.Core\\Entity\\Participant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:51:26.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:51:26.575Z"
             },
             {
               "$type": "Document",
@@ -1117,8 +1065,7 @@
               "RelativeToolTip": "Events.Core\\Entity\\Image.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:51:16.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:51:16.531Z"
             },
             {
               "$type": "Document",
@@ -1130,8 +1077,7 @@
               "RelativeToolTip": "Events.Core\\Entity\\EventParticipant.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:51:06.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:51:06.779Z"
             },
             {
               "$type": "Document",
@@ -1143,8 +1089,7 @@
               "RelativeToolTip": "Events.Application\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:46:09.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:46:09.46Z"
             },
             {
               "$type": "Document",
@@ -1156,8 +1101,7 @@
               "RelativeToolTip": "Events.Application\\Validation\\UserRequestDTOValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:32:21.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:32:21.483Z"
             },
             {
               "$type": "Document",
@@ -1169,8 +1113,7 @@
               "RelativeToolTip": "Events.Application\\Validation\\RegisterRequestDTOValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:32:16.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:32:16.909Z"
             },
             {
               "$type": "Document",
@@ -1182,8 +1125,7 @@
               "RelativeToolTip": "Events.Application\\Validation\\RegisterParticipantToEventRequestDTOValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:32:11.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:32:11.707Z"
             },
             {
               "$type": "Document",
@@ -1195,8 +1137,7 @@
               "RelativeToolTip": "Events.Application\\Validation\\ParticipantRequestDTOValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:32:06.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:32:06.029Z"
             },
             {
               "$type": "Document",
@@ -1208,8 +1149,7 @@
               "RelativeToolTip": "Events.Application\\Validation\\EventRequestDTOValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T06:31:59.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T06:31:59.506Z"
             },
             {
               "$type": "Document",
@@ -1221,8 +1161,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\UserUseCases\\ValidateCredentialsUseCase.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:44:23.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:44:23.477Z"
             },
             {
               "$type": "Document",
@@ -1234,8 +1173,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\RemoveParticipantFromEventUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:42:19.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:42:19.062Z"
             },
             {
               "$type": "Document",
@@ -1247,8 +1185,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\RegisterParticipantToEventUseCase.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:42:07.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:42:07.805Z"
             },
             {
               "$type": "Document",
@@ -1260,8 +1197,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantsByEventIdUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:41:56.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:41:56.201Z"
             },
             {
               "$type": "Document",
@@ -1273,8 +1209,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\ParticipantUseCases\\GetParticipantByIdUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:41:32.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:41:32.777Z"
             },
             {
               "$type": "Document",
@@ -1286,8 +1221,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\ImageUseCases\\AddImageUseCase.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:40:57.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:40:57.363Z"
             },
             {
               "$type": "Document",
@@ -1299,8 +1233,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetPagedEventsUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:40:02.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:40:02.907Z"
             },
             {
               "$type": "Document",
@@ -1312,8 +1245,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetEventsByCriteriaUseCase.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:39:47.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:39:47.828Z"
             },
             {
               "$type": "Document",
@@ -1325,8 +1257,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetEventByNameUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:39:30.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:39:30.585Z"
             },
             {
               "$type": "Document",
@@ -1338,8 +1269,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetEventByIdUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:39:01.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:39:01.096Z"
             },
             {
               "$type": "Document",
@@ -1351,8 +1281,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\GetAllEventsUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:38:42.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:38:42.724Z"
             },
             {
               "$type": "Document",
@@ -1364,8 +1293,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\DeleteEventUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:37:37.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:37:37.274Z"
             },
             {
               "$type": "Document",
@@ -1377,8 +1305,7 @@
               "RelativeToolTip": "Events.Application\\Use Cases\\EventUseCases\\AddEventUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:37:09.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:37:09.903Z"
             },
             {
               "$type": "Document",
@@ -1390,8 +1317,7 @@
               "RelativeToolTip": "Events.Application\\Interfaces\\INotificationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:36:34.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:36:34.245Z"
             },
             {
               "$type": "Document",
@@ -1403,8 +1329,7 @@
               "RelativeToolTip": "Events.Application\\Interfaces\\IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:35:37.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:35:37.492Z"
             },
             {
               "$type": "Document",
@@ -1416,8 +1341,7 @@
               "RelativeToolTip": "Events.Application\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:34:14.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:34:14.996Z"
             },
             {
               "$type": "Document",
@@ -1429,8 +1353,7 @@
               "RelativeToolTip": "Events.Application\\Exceptions\\TokenExpiredException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:33:44.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:33:44.126Z"
             },
             {
               "$type": "Document",
@@ -1442,8 +1365,7 @@
               "RelativeToolTip": "Events.Application\\Exceptions\\NotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:33:24.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:33:24.04Z"
             },
             {
               "$type": "Document",
@@ -1455,8 +1377,7 @@
               "RelativeToolTip": "Events.Application\\Exceptions\\InternalServerErrorException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:33:06.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:33:06.669Z"
             },
             {
               "$type": "Document",
@@ -1468,8 +1389,7 @@
               "RelativeToolTip": "Events.Application\\Exceptions\\BadRequestException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:32:45.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:32:45.624Z"
             },
             {
               "$type": "Document",
@@ -1481,8 +1401,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Response\\ParticipantResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:31:53.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:31:53.099Z"
             },
             {
               "$type": "Document",
@@ -1494,8 +1413,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Response\\EventResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:31:09.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:31:09.336Z"
             },
             {
               "$type": "Document",
@@ -1507,8 +1425,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\TokenRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:30:09.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:30:09.115Z"
             },
             {
               "$type": "Document",
@@ -1520,8 +1437,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\RegisterRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:29:54.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:29:54.777Z"
             },
             {
               "$type": "Document",
@@ -1533,8 +1449,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\RegisterParticipantToEventRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:29:09.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:29:09.31Z"
             },
             {
               "$type": "Document",
@@ -1546,8 +1461,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\ParticipantRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:28:27.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:28:27.01Z"
             },
             {
               "$type": "Document",
@@ -1559,8 +1473,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\PaginationParams.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:27:48.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:27:48.972Z"
             },
             {
               "$type": "Document",
@@ -1572,8 +1485,7 @@
               "RelativeToolTip": "Events.Application\\DTO\\Request\\EventRequestDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:27:23.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:27:23.683Z"
             },
             {
               "$type": "Document",
@@ -1585,8 +1497,7 @@
               "RelativeToolTip": "Events.Application\\Attributes\\ValidateModelAttribute.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T19:26:07.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T19:26:07.477Z"
             },
             {
               "$type": "Document",
@@ -1598,8 +1509,7 @@
               "RelativeToolTip": "Events\\Middlewares\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAgwAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:32:06.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:32:06.547Z"
             },
             {
               "$type": "Document",
@@ -1611,8 +1521,7 @@
               "RelativeToolTip": "Events.Test\\AddImageUseCaseTests.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:26:40.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:26:40.653Z"
             },
             {
               "$type": "Document",
@@ -1624,8 +1533,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:04:42.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:04:42.155Z"
             },
             {
               "$type": "Document",
@@ -1637,8 +1545,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\RepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:04:34.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:04:34.761Z"
             },
             {
               "$type": "Document",
@@ -1650,8 +1557,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\RefreshTokenRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:04:30.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:04:30.395Z"
             },
             {
               "$type": "Document",
@@ -1663,8 +1569,7 @@
               "RelativeToolTip": "Events.Data\\Repositories\\ParticipantRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:04:26.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:04:26.229Z"
             },
             {
               "$type": "Document",
@@ -1676,8 +1581,7 @@
               "RelativeToolTip": "Events.Test\\Events.Test.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T20:23:40.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:23:40.509Z"
             },
             {
               "$type": "Document",
@@ -1689,8 +1593,7 @@
               "RelativeToolTip": "Events.Test\\GetEventByIdUseCaseTests.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:28:21.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:28:21.229Z"
             },
             {
               "$type": "Document",
@@ -1702,8 +1605,7 @@
               "RelativeToolTip": "Events.Test\\GetAllEventsUseCaseTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:28:07.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:28:07.062Z"
             },
             {
               "$type": "Document",
@@ -1715,8 +1617,7 @@
               "RelativeToolTip": "Events.Test\\DeleteEventUseCaseTests.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:26:51.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:26:51.755Z"
             },
             {
               "$type": "Document",
@@ -1727,8 +1628,7 @@
               "ToolTip": "C:\\Users\\darev\\OneDrive\\Desktop\\Events_Application\\Events.Backend\\Events.Test\\Events.Test.csproj",
               "RelativeToolTip": "Events.Test\\Events.Test.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T20:23:52.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:23:52.019Z"
             },
             {
               "$type": "Document",
@@ -1740,8 +1640,7 @@
               "RelativeToolTip": "Events.Test\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:35:29.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T17:35:29.535Z"
             }
           ]
         }
